@@ -11,3 +11,8 @@ Using Classes, I developed a framework for the user data to be pushed into. Afte
 
 
 ![team_builder](https://user-images.githubusercontent.com/70980600/104819494-b1ac0c00-57e2-11eb-8591-07dd316d96df.png)
+
+
+### Problems
+
+For some reason, my code won't run the questionare again after the last prompt (add more employees). If you happen to know the reason behind this. Feel free to email me: ellisdelgado13@gmail.com. Thanks!
